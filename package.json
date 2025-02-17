@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "integracion",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafreilis1/Integracion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yafreilis1/Integracion/issues"
+  },
+  "homepage": "https://github.com/yafreilis1/Integracion#readme",
+  "description": ""
+}
